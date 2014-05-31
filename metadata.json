@@ -1,4 +1,12 @@
 {
   "name": "prefecture-jp",
+  "version": "0.1.0",
+  "description": "都道府県データ, prefecture jp. JIS X 0401 & ISO3166-2 JP.",
+  "homepage": "https://github.com/sanemat/prefecture-jp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanemat/prefecture-jp"
+  },
+
   "license": "Public Domain"
 }
